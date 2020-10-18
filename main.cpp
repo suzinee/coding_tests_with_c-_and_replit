@@ -1,9 +1,6 @@
 #include <iostream>
-#include <bits/stdc++h.h>
-
-using namespace std;
-
+int simulation_LRUD();
 int main() {
   std::cout << "Hello World!\n";
-
+  simulation_LRUD();
 }
